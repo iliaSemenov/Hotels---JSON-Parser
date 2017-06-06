@@ -1,0 +1,5 @@
+target ‘hotels’ do
+
+use_frameworks!
+pod 'SwiftyJSON'
+end
